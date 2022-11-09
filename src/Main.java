@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world! change 1! Change Clone");
+        System.out.println("Hello world! change 1! Ändrar kklonen för att merga");
     }
 }
